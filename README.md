@@ -1,3 +1,7 @@
+## Introduction
+
+This is the homepage of steed's github pages. Currently it is a test case.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/coolsteed/coolsteed.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
