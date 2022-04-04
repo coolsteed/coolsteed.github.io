@@ -77,5 +77,3 @@ GL-MT1300是原厂定制化openwrt，没有安装任何插件，仅仅作为主�
 Raspberry Pi 4B上没有选择自己编译R和Rstudio server，而是拉取了一个以Jetson Nano中的R开发为基础，移植到Raspberry Pi的镜像。地址在：https://github.com/pinei/edgyR-pi 
 
 这个环境下的R的版本在4.0.2，使用https://mac.r-project.org/benchmarks/ 的代码进行benchmark，单核性能同14年前的酷睿处理器接近。所以跑一些简单的代码可以，就不用想着来做主要的R instance了。
-
-
