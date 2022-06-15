@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "实验使用Linux进行日常工作"
-date:   2022-04-28 15:28:48 -0700
+date:   2022-06-15 11:28:48 -0700
 categories: jekyll update
 ---
 
