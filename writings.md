@@ -6,7 +6,7 @@ permalink: /writings/
 
 ## Academic writing
 
-Zhang, B., & Carpano, D. (2023). Chromium as a tool of logistical power: A material political economy of open-source. Big Data & Society, 10(1). https://doi.org/10.1177/20539517231182399
+Zhang, B., & Carpano, D. (2023). Chromium as a tool of logistical power: A material political economy of open-source. Big Data & Society, 10(1). [https://doi.org/10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
 
 张博伦，[“超越算法的黑箱想象”](https://kns.cnki.net/kcms2/article/abstract?v=Wz7QSVtT7FYJl0QXy3weze8IXlG2Axg-Yy076WMtuZMtSz0ZApEphmFh0OI8iLgwfQs0V-cszGb3H37KIufSeDpAqLZMRq_Ep5KpbWAgcUChwoOFDveURg==&uniplatform=NZKPT&language=gb)，《清华社会学评论》，2022.10，Vol.18, pp.146-165
 
