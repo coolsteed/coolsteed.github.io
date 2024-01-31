@@ -14,6 +14,10 @@ Zhang, B., & Carpano, D. (2023). Chromium as a tool of logistical power: A mater
 
 张博伦，[“埃及本土社会学的发展历程及其国家化困境”](https://www.nssd.cn/html/1/156/159/index.html?lngId=676513696)，《文化纵横》，2018年5月，页67-76.
 
+## Other
+
+张博伦，突破线性叙事的“技术”与“制度”：评郭旭光新作《算数》，《区域：第十一辑》，待出
+
 ## Public writing
 
 [“阿拉伯语的文化危机：卷土重来的东方主义”](https://www.thepaper.cn/newsDetail_forward_2133541)

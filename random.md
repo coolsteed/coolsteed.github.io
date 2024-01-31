@@ -4,10 +4,16 @@ title: Random
 permalink: /Random/
 ---
 
-## Recent tasks (updated 06/21)
+## Recent tasks (updated 2024-01)
 
-- Finish a revision and submit it back.
+- Preparing for teaching Method 101.
 
-- Finish the final empirical chapter and send it to committee. 
+- Starting a new draft for BDS.
 
-- Finish a revision outline for a special issue.
+- Design a task for LLM related assignment.
+
+- Rewrite the literature review part of a piece and submit it to SER or ASR.
+
+- Working on a conference logistics.
+
+- Working on a outline of interview questions.
