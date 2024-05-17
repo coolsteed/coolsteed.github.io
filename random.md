@@ -18,4 +18,4 @@ permalink: /Random/
 
 Good news is that the Methods course went pretty well so far.
 
-![](./_pics/cata.jpg)
+![](/_pics/cata.jpg)
