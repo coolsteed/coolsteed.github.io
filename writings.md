@@ -8,7 +8,7 @@ permalink: /writings/
 
 Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Topic Model?” Accepted in Sociological Methodology.
 
-Zhang, B., & Carpano, D. (2023). Chromium as a tool of logistical power: A material political economy of open-source. Big Data & Society, 10(1). [https://doi.org/10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
+Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Power: A Material Political Economy of Open-Source.” Big Data & Society 10(1):20539517231182399. doi: [10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
 
 ## Other
 
