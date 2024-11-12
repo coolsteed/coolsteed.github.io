@@ -6,13 +6,13 @@ permalink: /writings/
 
 ## Peer Reviewed Articles
 
-Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Topic Model?” Accepted in Sociological Methodology.
+Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Topic Model?” Sociological Methodology 00811750241265336. doi: 10.1177/00811750241265336.
 
 Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Power: A Material Political Economy of Open-Source.” Big Data & Society 10(1):20539517231182399. doi: [10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
 
 ## Other
 
-张博伦，“突破线性叙事的‘技术’与‘制度’：评郭旭光新作《算数》”，《区域：第十一辑》，待出
+张博伦，“突破线性叙事的‘技术’与‘制度’：评郭旭光新作《算数》”，PRC History Review，待出
 
 张博伦，“从头再来 - 埃及首都建设的政治经济学”，《北大中东研究：第五期》，待出
 

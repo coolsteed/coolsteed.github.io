@@ -4,16 +4,20 @@ title: Random
 permalink: /Random/
 ---
 
-## Recent tasks (updated 2024-06)
+## Recent tasks (updated 2024-11)
 
-- First draft of the NLP transfer
-
-- Grading
+- Submit the draft of the NLP transfer
 
 - Rethink literature review part of a old piece
 
-- Working on a outline of interview questions
+- Conduct two interviews
 
-- Plan to buy a 4090-machine.
+- Writing a review essay on CSS
+
+- Writing a snippet on agency
+
+- Writing a short article about four competing theories about the informational society
+
+- Plan to buy a server station
 
 ![](/_pics/cata.jpg)
