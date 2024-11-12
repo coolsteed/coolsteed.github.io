@@ -10,6 +10,8 @@ Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Top
 
 Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Power: A Material Political Economy of Open-Source.” Big Data & Society 10(1):20539517231182399. doi: [10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
 
+    2024 Hacker-Nicholas Mullins Graduate Student Award Honorable Mention
+
 ## Other
 
 张博伦，“突破线性叙事的‘技术’与‘制度’：评郭旭光新作《算数》”，PRC History Review，待出
