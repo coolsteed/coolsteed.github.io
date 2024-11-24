@@ -6,6 +6,8 @@ permalink: /writings/
 
 ## Peer Reviewed Articles
 
+Zhang, Bolun, and Yimang Zhou. 2024. "Wages and the Division between Mental and Manual Labor in China." World Development. Accepted.
+
 Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Topic Model?” Sociological Methodology 00811750241265336. doi: 10.1177/00811750241265336.
 
 Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Power: A Material Political Economy of Open-Source.” Big Data & Society 10(1):20539517231182399. doi: [10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
