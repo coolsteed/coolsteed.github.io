@@ -2,6 +2,7 @@
 layout: page
 title: Random
 permalink: /Random/
+image: /_pics/cata.jpg
 ---
 
 ## Recent tasks (updated 2024-12)
@@ -14,4 +15,4 @@ permalink: /Random/
 
 - Writing a short article about four competing theories about the informational society
 
-![](_pics/cata.jpg)
+![]({{page.image | relative_url}})
