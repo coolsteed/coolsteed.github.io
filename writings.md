@@ -6,9 +6,9 @@ permalink: /writings/
 
 ## Peer Reviewed Articles
 
-Zhang, Bolun, and Yimang Zhou. 2024. "Wages and the Division between Mental and Manual Labor in China." World Development. Accepted.
+Zhang, Bolun, and Yimang Zhou. 2025. “Wages and the Division between Mental and Manual Labor in China.” World Development 188:106878. [doi: 10.1016/j.worlddev.2024.106878.](doi: 10.1016/j.worlddev.2024.106878)
 
-Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Topic Model?” Sociological Methodology 00811750241265336. doi: 10.1177/00811750241265336.
+Zhang, Bolun, Yimang Zhou, and Dai Li. 2024. “Can Human Reading Validate a Topic Model?” Sociological Methodology 00811750241265336. [doi: 10.1177/00811750241265336.](doi: 10.1177/00811750241265336)
 
 Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Power: A Material Political Economy of Open-Source.” Big Data & Society 10(1):20539517231182399. doi: [10.1177/20539517231182399](https://doi.org/10.1177/20539517231182399)
 
@@ -16,9 +16,11 @@ Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Powe
 
 ## Other
 
-张博伦，“突破线性叙事的‘技术’与‘制度’：评郭旭光新作《算数》”，[PRC History Review Number 73/2 ★ November 2024](https://networks.h-net.org/sites/default/files/2024-11/Number%2073%3A2%20%E2%98%85%20November%202024.pdf#page=6.86)
+张博伦，“警惕机器学习走向封闭”，《清华社会学评论》，Vol.22, 待出
 
 张博伦，“从头再来 - 埃及首都建设的政治经济学”，《北大中东研究：第五期》，待出
+
+张博伦，2024. “突破线性叙事的‘技术’与‘制度’：评郭旭光新作《算数》”，[PRC History Review Number 73/2 ★ November 2024](https://networks.h-net.org/sites/default/files/2024-11/Number%2073%3A2%20%E2%98%85%20November%202024.pdf#page=6.86)
 
 李代, 张博伦, and 周浥莽. 2024. “大语言模型能用来给主题模型中的主题编码吗？.” [智能社会研究 (1):33–59.](https://www.jis.ac.cn/CN/Y2024/V3/I1/33)
 
