@@ -32,6 +32,8 @@ Li, D., Zhang, B., & Zhou, Y. (2023, July 21). Can Large Language Models (LLM) l
 
 ## Public writing
 
+[“社会科学研究与中等水平AI陷阱”](https://mp.weixin.qq.com/s/0Vk7djMHDijN7lx7I_2GXw)
+
 [“阿拉伯语的文化危机：卷土重来的东方主义”](https://www.thepaper.cn/newsDetail_forward_2133541)
 
 [“革命埋葬的，與埋葬革命的：讀何偉新書《埃及革命考古》”](https://theinitium.com/article/20190706-book-peter-hessler/)
