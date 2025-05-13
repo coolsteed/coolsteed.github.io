@@ -16,7 +16,9 @@ Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Powe
 
 ## Other
 
-张博伦，“警惕机器学习走向封闭”，《清华社会学评论》，Vol.22, 待出
+张博伦，“警惕机器学习走向封闭”，《清华社会学评论》，2024.12, Vol.22, pp.242-258.
+
+    《中国社会科学文摘》2025年第4期转载
 
 张博伦，“从头再来 - 埃及首都建设的政治经济学”，《北大中东研究：第五期》，待出
 
@@ -27,6 +29,8 @@ Zhang, Bolun, and Davide Carpano. 2023. “Chromium as a Tool of Logistical Powe
 Li, D., Zhang, B., & Zhou, Y. (2023, July 21). Can Large Language Models (LLM) label topics from a topic model?. (Working Paper) [https://doi.org/10.31235/osf.io/23x4m](https://doi.org/10.31235/osf.io/23x4m)
 
 张博伦，[“超越算法的黑箱想象”](https://www.jikan.com.cn/aD/a?id=3050071&pN=%25E6%25B8%2585%25E5%258D%258E%25E7%25A4%25BE%25E4%25BC%259A%25E5%25AD%25A6%25E8%25AF%2584%25E8%25AE%25BA%2520%25E7%25AC%25AC%25E5%258D%2581%25E5%2585%25AB%25E8%25BE%2591)，《清华社会学评论》，2022.10，Vol.18, pp.146-165
+
+    人大复印报刊资料《社会学》2023年第5期转载
 
 张博伦，[“埃及本土社会学的发展历程及其国家化困境”](https://www.nssd.cn/html/1/156/159/index.html?lngId=676513696)，《文化纵横》，2018年5月，页67-76.
 
