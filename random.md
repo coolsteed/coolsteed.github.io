@@ -5,14 +5,14 @@ permalink: /Random/
 image: /_pics/cata.jpg
 ---
 
-## Recent tasks (updated 2024-12)
+## Recent tasks (updated 2026-03)
 
-- Rethink literature review part of a old piece
+- Finish a RR for an article about hallucination. 
 
-- Writing a review essay on CSS
+- Writing a review essay on artifact and methodology
 
-- Writing a snippet on agency
+- Finish a project about AI regulation. 
 
-- Writing a short article about four competing theories about the informational society
+- Writing a short article about four competing theories about the informational society.
 
 ![]({{page.image | relative_url}})
